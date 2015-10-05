@@ -7,3 +7,5 @@ Key Features:
 * Converter to hash strings to numbers
 * Tool to convert number vectors to binary string
 * Web steganographer to encode binary strings into HTML pages
+
+This project was an assignment for the CS32 class at UCLA. 
